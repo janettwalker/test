@@ -333,8 +333,8 @@
   }
 
   .jw_spacer2{
-  background-image: url("spacer.png");
-  height: 10px;
+    background-image: url("spacer.png");
+    height: 10px;
   }
 
 }
