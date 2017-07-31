@@ -1,0 +1,78 @@
+﻿.ghostwhite{
+    color:ghostwhite;
+}
+
+.logo {
+    position: absolute;
+    top: -31px;
+    height: 100px;
+    padding:0;
+    padding-top: 15px;
+}
+
+.header .sitelogo-block .logo img {
+    position: absolute;
+    width: 100px;
+    max-width:100px;
+    left:-10px;
+}
+
+.prod-color-bg {
+    background-color:#fadfdf;
+}
+
+#productprices {
+    margin-top:8px;
+    font-size:125%;
+}
+
+.breadcrumb {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight: normal;
+	color: #333333;
+	text-align: left;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.breadcrumb a:link {text-decoration: none; color: #333333; }      /* unvisited link */
+.breadcrumb a:visited {text-decoration: none; color: #333333; }  /* visited link */
+.breadcrumb a:hover {text-decoration: underline; color: #b70606; }  /* mouse over link */
+.breadcrumb a:active {text-decoration: underline; color: #b70606; }  /* selected link */
+
+
+ul#breadcrumb {
+	font-size: 12px;
+	text-align: left;
+	font-style: normal;
+	color: #333333;
+	text-transform: none;
+	padding:  4px 0px 4px 0px;
+	margin:0;
+	}
+
+ul#breadcrumb li {
+	list-style: none;
+	text-align: left;
+	display: inline;
+	font-size: 12px;
+	padding: 4px 0px 4px 0px;
+}
+
+ul#breadcrumb li, ul#breadcrumb li strong, ul#breadcrumb li i, ul#breadcrumb li a {
+	font-size: 12px;
+	text-align: left;
+}
+ul#breadcrumb a:link {text-decoration: none; color: #333333; }      /* unvisited link */
+ul#breadcrumb a:visited {text-decoration: none; color: #333333; }  /* visited link */
+ul#breadcrumb a:hover {text-decoration: underline; color: #b70606; }  /* mouse over link */
+ul#breadcrumb a:active {text-decoration: underline; color: #b70606; }  /* selected link */
+
+#breadcrumb_select 
+{
+	font-size:12px; 
+	font-weight:bold; 
+	text-decoration: none; 
+	color: #000000
+}
